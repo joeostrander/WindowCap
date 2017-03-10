@@ -1,0 +1,6 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\WindowCap\WindowCap\bin\Debug\WindowCap.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\WindowCap\WindowCap\obj\Debug\WindowCap.csprojResolveAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\WindowCap\WindowCap\bin\Debug\WindowCap.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\WindowCap\WindowCap\bin\Debug\WindowCap.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\WindowCap\WindowCap\obj\Debug\WindowCap.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\WindowCap\WindowCap\obj\Debug\WindowCap.pdb
